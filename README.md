@@ -100,7 +100,3 @@ My responsibilities include:
 </p>
 
 ---
-
-<p align="center">
-  <i>"I'll take a potato chip... and eat it!"</i>
-</p>
