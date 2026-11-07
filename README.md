@@ -1,8 +1,9 @@
+<!-- KIRA HEADER -->
 <!-- DEATH NOTE BANNER -->
 <p align="center">
   <img
     src="./assets/death-note-banner.jpg"
-    width="100%"
+    width="50%"
     alt="Death Note - Light Yagami vs L"
   />
 </p>
@@ -12,11 +13,10 @@
 <h3 align="center">Junior Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-E50914?style=for-the-badge&logo=react&logoColor=white&labelColor=0D0D0D" />
-  <img src="https://img.shields.io/badge/DAM_Graduate-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/Frontend-E50914?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAM_Graduate-263B91?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
 
 ## 👨🏻‍💻 About Me
 
@@ -31,20 +31,20 @@
 ### Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### Tools & Design
 
 <p>
-  <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Figma-0D0D0D?style=for-the-badge&logo=figma&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -53,13 +53,13 @@
 
 ### 1. About Brennan Savage
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-E50914?style=for-the-badge&logo=github&labelColor=0D0D0D)](https://github.com/BrennanDzz/about-brennan-savage)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/BrennanDzz/about-brennan-savage)
 
 Personal web project. Designed and developed the complete website, including its code and implementation.
 
 ### 2. Raíz Culinaria
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-2563EB?style=for-the-badge&logo=github&labelColor=0D0D0D)](https://github.com/Web-Restaurante/restaurante-castilla-la-mancha)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Web-Restaurante/restaurante-castilla-la-mancha)
 
 Collaborative restaurant website developed with HTML, CSS and JavaScript.
 
@@ -85,8 +85,8 @@ My responsibilities include:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrennanDzz&show_icons=true&hide_border=false&border_color=1E3A8A&bg_color=0D0D0D&title_color=E50914&icon_color=2563EB&text_color=E5E5E5" />
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennanDzz&layout=compact&hide_border=false&border_color=1E3A8A&bg_color=0D0D0D&title_color=E50914&text_color=E5E5E5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrennanDzz&show_icons=true&theme=dark&hide_border=true&title_color=E50914&icon_color=E50914" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennanDzz&layout=compact&theme=dark&hide_border=true&title_color=E50914" height="165" />
 </p>
 
 ---
@@ -95,10 +95,10 @@ My responsibilities include:
 
 <p>
   <a href="https://www.linkedin.com/in/brennandzz/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gabriel.camacho.0265@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-E50914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D" />
+    <img src="https://img.shields.io/badge/Email-Contact-E50914?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -108,9 +108,7 @@ My responsibilities include:
 <p align="center">
   <img
     src="./assets/death-note.gif"
-    width="500"
+    width="100%"
     alt="Death Note animated edit"
   />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:1E3A8A&height=100&section=footer" width="100%" />
