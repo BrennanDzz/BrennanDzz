@@ -1,4 +1,4 @@
-<!-- KIRA HEADER -->
+<!-- KIRA HEADER  -->
 <!-- DEATH NOTE BANNER -->
 <p align="center">
   <img
