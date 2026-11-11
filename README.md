@@ -2,7 +2,7 @@
 <!-- DEATH NOTE BANNER -->
 <p align="center">
   <img
-    src="./assets/death-note-banner.jpg"
+    src="./assets/rezero-subaru.jpg"
     width="50%"
     alt="Death Note - Light Yagami vs L"
   />
